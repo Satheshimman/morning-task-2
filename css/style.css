@@ -1,0 +1,64 @@
+*{
+padding:0px;
+margin:0px;
+box-sizing:border-box;
+
+
+}
+
+
+
+
+.center-content li{
+	
+	list-style:none;
+	padding:8px 0px;
+	
+}
+
+.center-content li i{
+	
+
+color:orangered;
+	
+
+}
+
+
+.rel{
+	
+	position:relative;
+}
+
+.image-1{
+	width:75%;
+	
+	
+	
+}
+
+.image-2{
+	position:absolute;
+	
+	width:59.5%;
+	top:40%;
+	left:0%;
+}
+
+.image-3{
+	position:absolute;
+	
+	width:50%;
+	top:26%;
+	left:0%;
+}
+
+.image-4{
+	position:absolute;
+	
+	width:10%;
+	top:32%;
+	left:63%;
+}
+
+
